@@ -1,0 +1,11 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "[python]": {
+        "editor.inlineSuggest.enabled": false,
+        "github.copilot.enable": false
+    },
+    "[notebook]": {
+        "editor.inlineSuggest.enabled": false,
+        "github.copilot.enable": false
+    }
+}
